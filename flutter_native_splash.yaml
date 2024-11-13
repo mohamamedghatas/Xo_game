@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/image/xo splash 3.png
+  #branding: assets/branding-development.png
+  color_dark: "#121212"
+  image_dark: assets/image/xo splash 3.png
+  #branding_dark: assets/branding-development.png
+
+  android_12:
+    image: assets/image/xo splash 3.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/image/xo splash 3.png
+    icon_background_color_dark: "#121212"
